@@ -7,7 +7,7 @@ cask "supernav" do
   desc "Pop!_OS-style keyboard navigation between monitors and workspaces"
   homepage "https://github.com/trenner1/supernav"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "SuperNav.app"
 
