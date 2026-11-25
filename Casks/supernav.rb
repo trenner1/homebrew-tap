@@ -1,6 +1,6 @@
 cask "supernav" do
-  version "1.0.2"
-  sha256 "ea80f7faa91df21731eaf1cec62fe63f8e5dabd05efb18c899d42022ff90949a"
+  version "1.0.3"
+  sha256 "9bc2f998363b5dc263d69da2667a03553476924f4629376681deaca32cbfa575"
 
   url "https://github.com/trenner1/supernav/releases/download/v#{version}/SuperNav.zip"
   name "SuperNav"
